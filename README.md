@@ -66,7 +66,7 @@ I also tested edge cases such as:
 - Incorrect event information  
 - Navigation errors between screens  
 
-Testing was important because it revealed issues with navigation flow and data handling early, allowing fixes before finalizing the app. This process improved reliability, usability, and overall app quality.
+Testing was important because it revealed issues with navigation flow and data handling early, allowing fixes before the final iteration of the app. This process improved reliability, usability, and overall app quality.
 
 
 ## Innovation and Problem Solving
@@ -104,5 +104,3 @@ This component demonstrated my skills in:
 - UI/UX design  
 - Problem solving  
 - Mobile development best practices  
-
-Overall, this project showcased my ability to design and develop a practical, user-focused mobile application from concept to completion.
